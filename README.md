@@ -18,7 +18,7 @@ Note: The repository name is unrelated to the project to prevent current student
 		---> v1.0
 
 	IDE: 
-		Version Number: 	Microsoft Visual Studio Commiunnity 2019 16.11.12
+		Version Number: 	Microsoft Visual Studio Community 2019 16.11.12
 
 
 ## Project Introduction:
