@@ -18,7 +18,7 @@ Note: The repository name is unrelated to the project to prevent current student
 		---> v1.0
 
 	IDE: 
-		Version Number: 	IntelliJ IDEA 2022.1.3 (Community Edition)
+		Version Number: 	Microsoft Visual Studio Commiunnity 2019 16.11.12
 
 
 ## Project Introduction:
