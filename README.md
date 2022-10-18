@@ -3,7 +3,22 @@ Note: The repository name is unrelated to the project to prevent current student
 # Scripting and Programming - C867
 
 ## TL;DR
-You must make a smimple program that can take input data and output it in the console with C++
+
+	Purpose: 
+    You must make a simple program that can take input data and output it in the console with C++.
+		
+	Author:
+		Zachary Zamiska
+	
+	Contact Information:
+		Email: zzamiska@wgu.edu
+		Phone: 734.770.1554
+
+	Application Version:
+		---> v1.0
+
+	IDE: 
+		Version Number: 	IntelliJ IDEA 2022.1.3 (Community Edition)
 
 
 ## Project Introduction:
